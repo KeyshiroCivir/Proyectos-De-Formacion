@@ -6,4 +6,4 @@
 
 
 
-!GitHub(https://github.com/KeyshiroCivir/Proyectos-De-Formacion.git)(500)
+![GitHub issues](https://img.shields.io/github/issues/KeyshiroCivir/Proyectos-De-Formacion)
